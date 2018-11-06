@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="shangyi" unicode="&#58971;" d="M59.7504-30.72h921.6v-61.0304h-921.6V-30.72z m12.8 834.4576h345.6v-61.0816H72.5504V803.7376z m0-305.3056h345.6v-61.0304H72.5504V498.432z m0-305.2544h345.6v-61.0816H72.5504v61.0816zM705.4848 859.3408l-236.1344-250.368 40.2944-42.7008 190.1056 195.3792V77.824h57.6V761.6512l184.32-195.3792 40.2944 42.752L745.8304 859.3408a26.7776 26.7776 0 0 1-40.3456 0z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="xiayi" unicode="&#58972;" d="M50.8928-30.72h921.6v-61.0304H50.8928V-30.72zM63.6928 803.7376H409.2928v-61.0816H63.6928V803.7376z m0-305.3056H409.2928v-61.0304H63.6928V498.432z m0-305.2544H409.2928v-61.0816H63.6928v61.0816z m632.9856-106.1888L460.4928 337.3568l40.2944 42.7008 190.1056-195.3792V868.5056h57.6v-683.8272l184.32 195.3792 40.2944-42.752-236.1344-250.368a26.7776 26.7776 0 0 0-40.2944 0z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

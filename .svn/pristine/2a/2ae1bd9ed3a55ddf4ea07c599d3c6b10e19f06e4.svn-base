@@ -1,0 +1,131 @@
+@import "variable";
+.public-container{
+  .right_top{
+    .btn_h{
+      display: inline-block;
+      margin-right: 6px;
+      border: 1px solid #d8dce5;
+      height: 40px;
+      line-height: 40px;
+      padding: 0 11px;
+      @include box-sizing;
+      i{
+        font-size: 26px;
+        color: #989898;
+        margin-top: 6px;
+    }
+  }
+    >span{
+      display: inline-block;
+      vertical-align: top;
+      line-height: 40px;
+  }
+}
+  .row-item{
+    border-bottom: 1px solid $border-color;
+    line-height: 60px;
+    height: 60px;
+    padding: 0 15px;
+    &:last-child{
+      border-bottom: none;
+  }
+}
+
+  .operate-box{
+    span{
+      color: #666666;
+      display: block;
+      text-align: center;
+      font-size: $normal_size;
+      line-height: 30px;
+      cursor: pointer;
+  }
+}
+  .icon-box{
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    .icon{
+      font-size: 38px;
+      cursor: pointer;
+  }
+}
+  .el-pagination{
+    text-align: center;
+  }
+  .inline-block{
+    display: inline-block;
+    margin-left: 30px;
+  }
+
+  /*左右布局table*/
+  .titlebox{
+    border-top: 1px solid $border-color;
+    border-left: 1px solid $border-color;
+    border-right: 1px solid $border-color;
+    line-height: 45px;
+    padding-left: 30px;
+    background-color: white;
+  }
+  .rightBox{
+    border: 1px solid $border-color;
+    background-color: white;
+    padding-bottom: 50px;
+    transition: all .2ms;
+    .handle{
+      padding-left: 8px;
+      font-size: $larger_size;
+      line-height: 45px;
+      cursor: pointer;
+      color: #333333;
+    }
+  }
+  .sliderExpand{
+    width: 38px;
+    float: right;
+    background: #EFEFEF;
+    border: 1px solid $border-color;
+    height: 515px;
+    padding-top: 15px;
+    i{
+      cursor: pointer;
+    }
+  }
+
+  .searchBox{
+    position: relative;
+    padding: 5px 10px;
+    line-height: 28px;
+    border: 1px solid #D8DCE5;
+    background: #eeeeee;
+    border-left: none;
+    border-right: none;
+  }
+  .search-i{
+    width: 100%;
+    padding: 6px 15px 6px 10px;
+    border: 1px solid #D8DCE5;
+    color: #2E3033;
+    vertical-align: middle;
+    outline: 0;
+    border-radius: 2px;
+    font-size: 13px;
+  }
+  .el-icon-search {
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    width: 26px;
+    height: 28px;
+    cursor: pointer;
+    overflow: hidden;
+    color: #666666;
+  }
+}
+  .handle-text{
+    color: #3CBAFF;
+    position: relative;
+    left: -11px;
+    text-align: left;
+    margin-left: 0;
+}

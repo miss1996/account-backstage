@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_weixuan</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_weixuan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="选中-copy-9" transform="translate(3.000000, 3.000000)" fill="#666666" fill-rule="nonzero">
+            <path d="M2.25,1.125 C1.62867966,1.125 1.125,1.62867966 1.125,2.25 L1.125,15.75 C1.125,16.3713203 1.62867966,16.875 2.25,16.875 L15.75,16.875 C16.3713203,16.875 16.875,16.3713203 16.875,15.75 L16.875,2.25 C16.875,1.62867966 16.3713203,1.125 15.75,1.125 L2.25,1.125 Z M2.25,0 L15.75,0 C16.9926407,7.6089797e-17 18,1.00735931 18,2.25 L18,15.75 C18,16.9926407 16.9926407,18 15.75,18 L2.25,18 C1.00735931,18 1.52179594e-16,16.9926407 0,15.75 L0,2.25 C-1.52179594e-16,1.00735931 1.00735931,2.28269391e-16 2.25,0 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

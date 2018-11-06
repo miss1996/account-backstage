@@ -1,0 +1,117 @@
+/*
+*writer: zhaohengqi
+*/
+@import "variable";
+body{
+  background: #f4f4f4;
+}
+body,h1,h2,h3,h4,h5,h6,hr,p,dl,dt,dd,ul,ol,li,form,fieldset,legend,button,input,textarea,th,td {
+	margin: 0;
+	padding: 0;
+}
+.toggleMenu{
+	display: none;
+}
+.position{
+	position: relative;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-weight: 400;
+}
+div,section,header,footer,p,ul,li,h1,h2,h3,h4,h5,h6,hr,p,dl,dt,dd,ul,ol,li,form,input{
+	box-sizing:border-box;
+}
+body,button,input,select,textarea {
+	font: 12px/1.5 "MicroSoft YaHei","Hiragino Sans GB","\5b8b\4f53",sans-serif
+}
+
+
+em,i {
+	font-style: normal
+}
+
+fieldset,img {
+	border: 0
+}
+
+ul,ol,li {
+	list-style: none;
+	list-style-position: outside
+}
+
+button,input,select,textarea {
+	font-size: 100%;
+	outline: 0
+}
+
+textarea {
+	resize: none
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover{text-decoration:none;}
+/*a:link{text-decoration:none; }
+a:active{text-decoration:none;}
+a:visited{text-decoration:none; }
+a:hover{
+	text-decoration: none;
+	cursor: pointer;
+}
+*/
+
+p,span,em,strong {
+	word-break: break-all;
+	word-wrap: break-word
+}
+
+.clearfix:after {
+	content: "";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+
+.clearfix {
+	zoom: 1;
+}
+.overflow{
+	overflow: hidden;
+}
+.clear{
+	clear: both;
+	display: block;
+	height: 0;
+	overflow: hidden;
+	font-size: 0
+}
+.pointer{
+	cursor: pointer;
+}
+
+.fr{
+	float: right;
+}
+.fl{
+	float: left;
+}
+.none {
+	display: none;
+}
+
+.fontYH {
+
+}
+
+
+/*******
+font
+***********/

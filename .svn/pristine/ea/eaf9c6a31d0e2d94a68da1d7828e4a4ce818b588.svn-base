@@ -1,0 +1,119 @@
+@import "variable";
+.public-container2{
+  margin: 10px 25px 10px 35px;
+  min-height: 300px;
+  .right_top{
+    .btn_h{
+      display: inline-block;
+      margin-right: 6px;
+      border: 1px solid #d8dce5;
+      height: 40px;
+      line-height: 40px;
+      padding: 0 11px;
+      @include box-sizing;
+      i{
+        font-size: 26px;
+        color: #989898;
+        margin-top: 6px;
+      }
+    }
+    >span{
+      display: inline-block;
+      vertical-align: top;
+      line-height: 40px;
+    }
+  }
+  .el-pagination{
+    text-align: center;
+  }
+  .titlebox{
+    border-top: 1px solid $border-color;
+    border-left: 1px solid $border-color;
+    border-right: 1px solid $border-color;
+    line-height: 45px;
+    padding-left: 30px;
+    background-color: white;
+  }
+  .expend-table{
+    border-collapse: collapse;
+    width: 100%;
+    td{
+      line-height: 50px;
+      &:first-child{
+        border-right: none;
+      }
+    }
+  }
+
+  /*左右布局table*/
+  .titlebox{
+    border-top: 1px solid $border-color;
+    border-left: 1px solid $border-color;
+    border-right: 1px solid $border-color;
+    line-height: 45px;
+    padding-left: 30px;
+    background-color: white;
+  }
+  .rightBox{
+    border: 1px solid $border-color;
+    background-color: white;
+    padding-bottom: 50px;
+    transition: all .2ms;
+    .handle{
+      padding-left: 8px;
+      font-size: $larger_size;
+      line-height: 45px;
+      cursor: pointer;
+      color: #333333;
+    }
+  }
+  .sliderExpand{
+    width: 38px;
+    float: right;
+    background: #EFEFEF;
+    border: 1px solid $border-color;
+    height: 515px;
+    padding-top: 15px;
+    i{
+      cursor: pointer;
+    }
+  }
+
+  .searchBox{
+    position: relative;
+    padding: 5px 10px;
+    line-height: 28px;
+    border: 1px solid #D8DCE5;
+    background: #eeeeee;
+    border-left: none;
+    border-right: none;
+  }
+  .search-i{
+    width: 100%;
+    padding: 6px 15px 6px 10px;
+    border: 1px solid #D8DCE5;
+    color: #2E3033;
+    vertical-align: middle;
+    outline: 0;
+    border-radius: 2px;
+    font-size: 13px;
+  }
+  .el-icon-search {
+    position: absolute;
+    right: 12px;
+    top: 12px;
+    width: 26px;
+    height: 28px;
+    cursor: pointer;
+    overflow: hidden;
+    color: #666666;
+  }
+
+}
+.handle-text{
+  color: #3CBAFF;
+  position: relative;
+  left: -11px;
+  text-align: left;
+  margin-left: 0;
+}

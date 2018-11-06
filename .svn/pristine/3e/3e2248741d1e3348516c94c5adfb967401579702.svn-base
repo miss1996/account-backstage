@@ -1,0 +1,146 @@
+@import "variable";
+
+.aside-container{
+  .el-menu-item.is-active{
+    color: white !important;
+  }
+  .el-menu-vertical-demo{
+    height: 100vh;
+  }
+  .el-aside{
+    overflow: inherit !important;
+  }
+  .submenu_s {
+    .el-submenu__title{
+      height: 64px;
+      line-height: 64px;
+      i{
+        color: white;
+      }
+    }
+    .el-menu-item{
+      height: 50px;
+      line-height: 50px;
+      font-size: $normal_size;
+      padding-left: 50px !important;
+    }
+  }
+
+  //换肤
+
+  .is-opened{
+    .el-submenu__title{
+      width: 231px;
+      z-index: 9;
+      transition: all .5s linear;
+      -webkit-transition: all .5s linear;
+      -moz-transition: all .5s linear;
+      @include rounded-corners;
+      @include mbox-shadow-slider;
+    }
+    .el-submenu__icon-arrow{
+      right: 31px;
+    }
+  }
+  .blueMenu{
+    .is-opened{
+      .el-submenu__title{
+        background-color: #1494a6 !important;
+      }
+      .el-menu{
+        background-color:#229DAF !important;
+        .el-menu-item{
+          background-color:#229DAF !important;
+        }
+        .el-menu-item.is-active{
+          background-color: #1494a6 !important;
+        }
+      }
+    }
+    .el-menu-item.is-active{
+      background-color: #1494a6 !important;
+    }
+  }
+
+  .orangeMenu{
+    .is-opened{
+      .el-submenu__title{
+        background-color: #EC8C31 !important;
+      }
+      .el-menu{
+        background-color:#EE943D !important;
+        .el-menu-item{
+          background-color:#EE943D !important;
+        }
+        .el-menu-item.is-active{
+          background-color: #EC8C31 !important;
+        }
+      }
+    }
+    .el-menu-item.is-active{
+      background-color: #EC8C31 !important;
+    }
+  }
+  .popularMenu{
+    .is-opened{
+      .el-submenu__title{
+        background-color: #7D69F2 !important;
+      }
+      .el-menu{
+        background-color:#836EFD !important;
+        .el-menu-item{
+          background-color:#836EFD !important;
+        }
+        .el-menu-item.is-active{
+          background-color: #7D69F2 !important;
+        }
+      }
+    }
+    .el-menu-item.is-active{
+      background-color: #7D69F2 !important;
+    }
+  }
+
+  .pinkMenu{
+    .is-opened{
+      .el-submenu__title{
+        background-color: #EC7373 !important;
+      }
+      .el-menu{
+        background-color:#F27C7C !important;
+        .el-menu-item{
+          background-color:#F27C7C !important;
+        }
+        .el-menu-item.is-active{
+          background-color: #EC7373 !important;
+        }
+      }
+    }
+    .el-menu-item.is-active{
+      background-color: #EC7373 !important;
+    }
+  }
+
+  .greenMenu{
+    .is-opened{
+      .el-submenu__title{
+        background-color: #036D97 !important;
+      }
+      .el-menu{
+        background-color:#037AA9 !important;
+        .el-menu-item{
+          background-color:#037AA9 !important;
+        }
+        .el-menu-item.is-active{
+          background-color: #036D97 !important;
+        }
+      }
+    }
+    .el-menu-item.is-active{
+      background-color: #036D97 !important;
+    }
+  }
+
+
+
+}

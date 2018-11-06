@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_gongsiqiehuan</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_gongsiqiehuan" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.4842885,14.3046394 C12.3445614,14.4443665 12.1549318,14.5741131 11.9752827,14.534191 C11.7956335,14.5641326 11.6259649,14.4244055 11.4862378,14.3046394 L7.16467836,9.96311891 C6.94510721,9.74354776 6.94510721,9.38424951 7.16467836,9.16467836 C7.38424951,8.94510721 7.74354776,8.94510721 7.96311891,9.16467836 L11.9852632,13.2966082 L16.0173879,9.16467836 C16.2369591,8.94510721 16.5962573,8.94510721 16.8158285,9.16467836 C17.0353996,9.38424951 17.0353996,9.74354776 16.8158285,9.96311891 L12.4842885,14.3046394 Z" id="切换" fill="#666666" fill-rule="nonzero"></path>
+    </g>
+</svg>

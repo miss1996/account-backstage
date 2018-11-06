@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_gongsiqiehuan copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon_gongsiqiehuan-copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="消息" transform="translate(2.000000, 2.000000)" fill="#666666" fill-rule="nonzero">
+            <path d="M20,17 L0,17 L3.02702703,11.9748428 L3.02702703,5.77358491 C3.02702703,5.66666667 3.35135135,0 9.62162162,0 C15.7837838,0 16.5405405,5.45283019 16.5405405,5.45283019 L16.5405405,11.9748428 L20,17 Z M1.94594595,15.9308176 L18.0540541,15.9308176 L15.4594595,12.2955975 L15.4594595,5.55974843 C15.4594595,5.45283019 14.8108108,1.06918239 9.62162162,1.06918239 C4.43243243,1.06918239 4.21621622,5.66666667 4.10810811,5.77358491 L4.10810811,12.2955975 L1.94594595,15.9308176 Z" id="Shape"></path>
+            <path d="M10,20 C8.35483871,20 7,18.6451613 7,17 L7.96774194,17 C7.96774194,18.0645161 8.83870968,19.0322581 10,19.0322581 C11.1612903,19.0322581 12.0322581,18.1612903 12.0322581,17 L13,17 C13,18.6451613 11.6451613,20 10,20 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

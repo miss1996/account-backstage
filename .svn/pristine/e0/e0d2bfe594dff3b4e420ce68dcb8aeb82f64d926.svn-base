@@ -1,0 +1,37 @@
+.public-container2{
+  .el-table{
+    .cell{
+      height: 50px;
+      line-height: 50px;
+    }
+    th{
+      height: 36px;
+      line-height: 36px;
+    }
+    td{
+      &:first-child{
+        border-right: none;
+      }
+    }
+    thead.is-group th{
+      background: #eeeeee;
+    }
+  }
+  .el-table__expand-icon{
+    display: inline-block;
+  }
+  .el-radio__label{
+    font-size: 14px;
+  }
+  .el-radio__inner{
+    width: 19px;
+    height: 19px;
+  }
+  .el-radio__inner::after{
+    width: 8px;
+    height: 8px;
+  }
+  .el-table__expanded-cell[class*=cell]{
+    padding: 0;
+  }
+}
